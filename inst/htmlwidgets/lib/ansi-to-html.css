@@ -1,0 +1,11 @@
+div.findInGit {
+  color: white;
+  background-color: #002;
+  overflow: auto;
+  outline: 5px solid #002;
+}
+
+div.findInGit:empty {
+  background-color: transparent;
+  outline: none;
+}
