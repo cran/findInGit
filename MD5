@@ -1,9 +1,9 @@
-ad7a79c639198d7965d5255605798f4c *DESCRIPTION
+d89b38a4c4441e2393a0632ea4be80ee *DESCRIPTION
 ea20d711f59a02d2da5a5070e064fe5e *LICENSE.note
 24db893199b4b44db8d9d1004e6e4442 *NAMESPACE
-029fb5f8b60f5dbbb2274fc39ee89da5 *NEWS.md
-495c4027122862cc24bb0dbb8634dea9 *R/findInGit.R
-ddf6e2733dfc63b8f1ef828005e62926 *R/grepInGit.R
+d99dbd0b97c7f3031da72417c053acd4 *NEWS.md
+104a6845c99ca028af6af76349318816 *R/findInGit.R
+f30bd7cb59e0bb0397ed1107cfbc1deb *R/grepInGit.R
 a863f5e5d4061c58e35ee28976e2ce57 *R/utils.R
 f827a684407c31b040001c237d687399 *README.md
 9e1168fb29fca878bd599dbe08e99058 *inst/htmlwidgets/findInGit.js
@@ -11,5 +11,5 @@ f86017c9fa62f75e2f1d71a7d971144d *inst/htmlwidgets/findInGit.yaml
 90afd83d32120b82d0cd09ac25b4f69e *inst/htmlwidgets/lib/ansi-to-html.css
 ca4f68e2b51702353d1060819f8dcbee *inst/htmlwidgets/lib/ansi-to-html_bundle.js
 6ab6efca4e733312e9ceb18c12d44961 *man/FIG2dataframe.Rd
-012931401b453ffec99ce6f745eefe28 *man/findInGit-shiny.Rd
-6b5851766fe77a95ee3b4b12054d8ba9 *man/findInGit.Rd
+8f5921e0f8146cf71a11c9a0cdc71aca *man/findInGit-shiny.Rd
+eb9ee1d2134aebe3176aedab560886b9 *man/findInGit.Rd

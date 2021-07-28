@@ -1,7 +1,7 @@
 Package: findInGit
 Type: Package
 Title: Find Pattern in Files of All Branches of a 'git' Repository
-Version: 0.1.0
+Version: 0.1.1
 Authors@R: c(
     person(
       "Stéphane", "Laurent", 
@@ -22,9 +22,9 @@ URL: https://github.com/stla/findInGit
 BugReports: https://github.com/stla/findInGit/issues
 RoxygenNote: 7.1.1
 NeedsCompilation: no
-Packaged: 2021-07-26 10:00:28 UTC; SDL96354
+Packaged: 2021-07-28 09:58:37 UTC; SDL96354
 Author: Stéphane Laurent [aut, cre],
   Rob Burns [cph] ('ansi-to-html' library)
 Maintainer: Stéphane Laurent <laurent_step@outlook.fr>
 Repository: CRAN
-Date/Publication: 2021-07-27 07:20:02 UTC
+Date/Publication: 2021-07-28 10:10:06 UTC
